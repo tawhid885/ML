@@ -1,0 +1,6 @@
+1. best blog :
+
+https://www.jcchouinard.com/classification-machine-learning-project-in-scikit-learn/
+
+2. hierarchical clustering : 
+https://medium.com/@irfanalghani11/hierarchical-clustering-in-python-step-by-step-guide-for-beginners-e3a2e2c677b3
